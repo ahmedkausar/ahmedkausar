@@ -11,9 +11,8 @@
   <a href="mailto:kausarahmed2nd@gmail.com"><img src="https://img.shields.io/badge/Email-kausarahmed2nd@gmail.com-2C3947?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## About
 
-I work on Natural Language Processing, Retrieval-Augmented Generation, and building efficient, practical AI systems. I enjoy working at the intersection of research and engineering.
+I work on Natural Language Processing, Retrieval-Augmented Generation, and building efficient, practical AI systems. `I enjoy working at the intersection of research and engineering.`
 
 ## Research interests
 
