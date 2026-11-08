@@ -1,44 +1,33 @@
-## 🧮 Tech Stack:
-<p align='left'>
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="Python" title="Python" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="Java" title="Java" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="JavaScript" title="JavaScript" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" width="50" />
+<h1 align="center">Kausar Ahmed</h1>
+
+<p align="center">
+  <strong>Research Assistant · University of Liberal Arts Bangladesh</strong>
+  <br><br>
+  <a href="https://github.com/ahmedkausar"><img src="https://img.shields.io/badge/GitHub-ahmedkausar-EC5B38?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ahmedkausar/"><img src="https://img.shields.io/badge/LinkedIn-ahmedkausar-EADBC8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://scholar.google.co.uk/citations?user=Y_3_KbEAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Publications-8E1616?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <br>
+  <a href="https://ahmedkausar.github.io/"><img src="https://img.shields.io/badge/Website-ahmedkausar.github.io-065535?style=flat" alt="Website" /></a>
+  <a href="mailto:kausarahmed2nd@gmail.com"><img src="https://img.shields.io/badge/Email-kausarahmed2nd@gmail.com-2C3947?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/others/html.svg" alt="HTML5" title="HTML5" height="50" width="50" /><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/others/css.svg" alt="CSS3" title="CSS3" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/flask.svg" alt="Flask" title="Flask" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/databases/mysql.svg" alt="MySQL" title="MySQL" height="50" width="50" />
+## About
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kausar2nd&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I work on Natural Language Processing, Retrieval-Augmented Generation, and building efficient, practical AI systems. I enjoy working at the intersection of research and engineering.
 
-<!--- 
-## My Web Apps:
-<table border="0">
-  <tr>
-    <td align="center" width=40%>
-    <img src="https://github.com/kausaraahmed/scheduLumos/blob/main/static/images/screenshot.png" width=100%> 
-    </td>
-    <td align="center">
-      <p><a href="https://cpuscheduler.vercel.app" title="A app to simulate CPU scheduling algorithms"><strong>Schedulomus</strong></a>: A web app to compare performance of CPU scheduling algorithms</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width=40%>
-    <img src="https://github.com/kausaraahmed/genroutine/blob/no_py/static/ss.png" width=100%> 
-    </td>
-    <td align="center">
-      <p><a href="https://genroutine.vercel.app" title="Routine generator">GenRoutine</a>: Routine Creating and visualizing tool</p>
-    </td>
-  </tr>
-</table>
+## Research interests
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Natural_Language_Processing-1E201E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Trustworthy_AI-1E201E?style=flat-square" />
+  <br>
+  <img src="https://img.shields.io/badge/Information_Retrieval-1E201E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-1E201E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Large_Language_Models-1E201E?style=flat-square" />
+</p>
 
-</br>
+## GitHub Statistics
 
----> 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmedkausar&layout=compact&hide_border=true&theme=dark&langs_count=6" alt="Top Languages" />
+</p>
